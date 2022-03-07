@@ -4,11 +4,11 @@
 Analyzing data collected from recent years to gain insight on if the business should transition to a year-round business model.
 
 ## Temperature Analysis
-June Temperature Summary:
+### June Temperature Summary:
 
 ![june-summary.png](Resources/june_summary.png)
 
-December Temperature Summary:
+### December Temperature Summary:
 
 ![december-summary.png](Resources/dec_summary.png)
 
